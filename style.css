@@ -227,12 +227,12 @@ section {
 #about {
   position: relative;
 }
-.about-container {
+.about-containers {
   gap: 2rem;
   margin-bottom: 2rem;
   margin-top: 2rem;
 }
-.about-detail-container {
+.about-details-container {
   justify-content: center;
   flex-direction: column;
 }
